@@ -1,5 +1,13 @@
 # 💫 About Me:
-(HTML, CSS, JS) والـ Back-End (C# ASP.NET MVC) هي وحدة من أقوى التوليفات وأكثرها طلباً واستقراراً في سوق العمل.<br><br>بما إنك شغال على "أحدث الأشياء" وبتدور على بريف (Brief)، فغالباً أنت محتاج حاجة من دول تخدم مشروعك أو شغلك الحالي. قول لي أي اتجاه حابب نتحرك فيه:<br><br>بريف لمشروع جديد (Project Brief): لو عندك فكرة تطبيق أو موقع وعايز نكتب لها الملخص الفني (Technical Architecture) وطريقة ربط الـ MVC مع الـ Front-End بشكل عصري (زي استخدام AJAX أو APIs).<br><br>بريف لـ Portfolio / CV: لو حابب نكتب بريف احترافي يلخص خبرتك دي بالـ English أو العربي علشان تضيفه في حسابك على LinkedIn أو موقعك الشخصي.<br><br>تحديث لتقنيات معينة: لو حابب نعمل بريف عن أحدث الميزات في .NET 8 / .NET 9 أو طرق دمج تقنيات تصميم حديثة (زي الـ Glassmorphism وتأثيرات الـ CSS المتقدمة) مع مشروعك.
+(HTML, CSS, JS) and the back-end (C# ASP.NET MVC) are among the most powerful, in-demand, and stable combinations in the job market.
+
+Since you're working on cutting-edge projects and looking for a brief, you likely need one of these to serve your current project or work. Tell me which direction you'd like us to take:
+
+Project Brief: If you have an app or website idea and want us to write the technical architecture summary and how to integrate MVC with the front-end in a modern way (like using AJAX or APIs).
+
+Portfolio/CV Brief: If you'd like us to write a professional brief summarizing your experience in English or Arabic to add to your LinkedIn profile or personal website.
+
+Update on certain technologies: If you would like us to brief you on the latest features in .NET 8 / .NET 9 or ways to integrate modern design technologies (such as Glassmorphism and advanced CSS effects) with your project.
 
 
 # 💻 Tech Stack:

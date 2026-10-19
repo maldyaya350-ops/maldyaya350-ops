@@ -1,41 +1,63 @@
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/api?lines=I+build+things+for+the+web%3BTurning+coffee+into+clean%2C+tested+code&color=2f81f7&center=true&vCenter=true&width=600&height=56&size=20&pause=1000&repeat=true" alt="I build things for the web | Turning coffee into clean, tested code" />
-<h1 align="center">Hi 👋, I&#39;m octocat 👋</h1>
+
+# Malek | Software Engineer
+
+Building high-performance desktop applications, secure encryption tools, and modern web systems.
+
+[GitHub Repositories](https://github.com/maldyaya350-ops?tab=repositories) • [Featured Projects](#featured-projects)
+
 </div>
 
+---
+
+## About Me
+
+I am a software developer focused on backend architectures, cryptography tools, and full-stack solutions. I build reliable software using C# (.NET / ASP.NET Core) and Python, with a strong focus on clean architecture, security, and smooth user experience.
+
+- **Currently Developing:** Video Vault (A zero-disk-footprint encrypted video player) and SchoolDashboard.
+- **Core Focus:** C#, .NET Core, Python, Cryptography, and System Architecture.
+- **Languages:** English and Arabic (Full RTL Support in UI Applications).
+
+---
+
+## Technical Stack
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C#, Python, JavaScript, HTML5, CSS3 |
+| **Frameworks & Libraries** | ASP.NET Core MVC, Entity Framework Core, Qt6 / PyQt, Windows Forms |
+| **Databases & Tools** | SQL Server, Git, GitHub Actions, Visual Studio, VS Code |
+| **Security & Concepts** | AES-256-GCM, scrypt, Symmetric Encryption, Clean Architecture, REST APIs |
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=octocat&label=VISITORS&color=1e3a8a&style=flat&logo=github" alt="Visitor count" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=maldyaya350-ops&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldyaya350-ops&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maldyaya350-ops&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
+
 </div>
 
-<p align="center">Software engineer who loves clean APIs, fast feedback loops, and good coffee. I build things for the open web and write about what I learn.</p>
+---
 
-- 🔭 <b>Currently working on</b> — an open-source developer toolkit
-- 🌱 <b>Currently learning</b> — distributed systems and Rust
-- 👯 <b>Looking to collaborate on</b> — web tooling &amp; DX improvements
-- 🤔 <b>Looking for help with</b> — scaling real-time infrastructure
-- 💬 <b>Ask me about</b> — TypeScript, React, and API design
-- 😄 <b>Pronouns</b> — they/them
-- ⚡ <b>Fun fact</b> — I debug from a mountaintop on weekends
+## Featured Projects
 
-### 🛠️ Tech Stack
+### Video Vault
+A secure, self-contained video player that streams encrypted media directly from memory in 1 MiB blocks without extracting plaintext files to disk. Features scrypt key derivation, AES-256-GCM authentication, and bilingual support.
+
+### SchoolDashboard
+A modern school management system engineered with ASP.NET Core MVC and SQL Server, providing role-based access control, student records tracking, and administrative analytics.
+
+---
 
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square" alt="Node.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&style=flat-square" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" alt="Python" />
-</div>
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=octocat&theme=dark&show_icons=true&show=commits%2Cprs%2Cissues%2Ccontributions%2Crank&hide_border=false&count_private=true&line_height=28" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=dark&layout=compact&hide_border=false&card_width=480" alt="Top languages" /></td>
-</tr></table>
+*Automated real-time stats provided via GitHub API integration.*
 
-<h3 align="center">Connect with me</h3>
-<div align="center">
-<a href="https://github.com/octocat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://x.com/octocat" target="_blank"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter / X" /></a>
-<a href="https://linkedin.com/in/octocat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
